@@ -1,0 +1,40 @@
+Naval battle
+
+Part of war on the seas
+
+2025-2029
+
+
+Military settings
+
+There are several armies attempting to conquer a square area on the sea.  Each war machine has a homebase.  Plane homebases are in the air.  Ship homebases are on the sea surface, where as submarine home bases are under the water surface.  The home bases of war machines of any army are on a vertical plane.  Each war machine type has homebases on the same altitude. 
+ 
+
+
+Fighting armies
+
+
+Carmine army is run by you, the carmine army commander.  Your task is to wipe out the enemies as a preventive operation.  Be aware that one an army is attacked they are likely to retaliate.  Other armies have different colors, typically shades of yellow, green and blue.  Other armies have commanders of their own and they follow their task is to destroy your army.  They don't fight each other.
+
+
+War machines
+
+Ships, planes and submarines are the types of war machines.  Each war machine can shoot all kinds of war machines.   When hit by a rocket, torpedo, bomb or depth charge, war machines explode. Exploded war machine wall.  Planes wall to the bottom of the sea first hitting the sea surface.  Ships sink also to the bottom of the sea when they have exploded.  Submarines are always under the sea surface, but they also head to the sea bottom when been hit and exploded by a hit of a torpedo or depth bomb.  Planes can only be hit by rockets, where as ships can be hit by rockets, torpedos, or bombs.  Be careful to only shoot enemy war machines.
+
+Attacking
+
+When the commander has selected a enemy war machine as target and an attacking own war machine as attacker, the attacker starts direct move towards the target.  When reaching shooting distance it shoots with the appropriate weapon an ammunition towards the target.  When the ammunition has reach hitting distance from the target the target is hit and explodes.  Once the attacker has released the ammunition turns back to it's home base.  Attacket needs to monitor that the ammunition has really hit the target or the target has avoided the ammunition before it can receive new attacking order so that the ammunition really travels all the way to the target.
+
+
+Winning a  battle
+
+You have won the battle if you have destroyed all the enemy war machines of all the enemy armies.  After each battle comes a new battle with a different number of enemy armies each having varyin number of war machines.
+
+
+Winning the war
+
+A victory in the war is declared after the final battle.  
+
+
+
+
