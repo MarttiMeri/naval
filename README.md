@@ -36,18 +36,22 @@ $ node index.js "Describe this applicant's employment history"
 $ node index.js "What is 1+1?"
 { text: " I don't know." }
 ```
-...
-
 - Asking questions having data.txt and data1.txt in the docs database
-...
+
+```
 $ node index.js "How can a ship be destroyed?"
 {
     text:   "A ship can be destroyed by being hit by a rocket, torpedo, or bomb launched from an attacking war machine. The attacking war machine can be a plane, submarine or ship, depending on the military setting, and the ammunition needs to reach the target and successfully detonate in order to declare victory in the battle and ultimately the war. In naval battles, the attacking war machine typically launches the rocket, torpedo, or bomb from the same altitude as the target ship's homebase, and the resulting explosion causes the ship to sink to the bottom of the sea. Other methods of destruction can include ramming from another vessel, weather or environmental damage, and sabotage from within the ship."
 }
+```
+- Nasty question in a situation where there are two diffrent independent texts
+
+```
 $ node index.js "What is my role?"
 {
     text:   'Your role as an IT Specialist is to ensure the successful deployment of attacking war machines by monitoring the ammunition and providing technical assistance to ensure the ammunition reaches its target. You are also responsible for monitoring the progress of the battle to determine if you have won the battle or the war. With a BSc in Computer Science from the State University of New York and certifications in CompTIA A+ and MS Server, you have experience in system administration, network configuration, software installation, troubleshooting, working in a Windows environment, customer service, and technical support. Additionally, you have experience in maintaining, configuring, and monitoring Windows computers and peripherals, finding ways to cut equipment costs, installing desktop computers, improving overall network capabilities, spearheading hardware and software upgrade rollouts, and writing scripts to automate scheduled system patching.'
   }
+```
 
 ### What if we want to reference Langchain using our local data and OpenAI LLM
 ```
